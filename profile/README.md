@@ -1,5 +1,5 @@
 ## Analytics for the Australian Grains Industry
-Welcome to the Github account of the Analytics for the Australian Grains Industry (AAGI) organization. 
+This site is under construction
 <!--
 
 **Here are some ideas to get you started:**
