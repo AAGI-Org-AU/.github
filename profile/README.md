@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Welcome to the Github account of the Analytics for the Australian Grains Industry (AAGI) organization. 
 <!--
 
 **Here are some ideas to get you started:**
