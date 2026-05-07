@@ -7,7 +7,7 @@ This GitHub organisation is the home for the AAGI project's privately accessible
 AAGI is led by three strategic partners: [Curtin University](https://curtin.edu.au), [University of Queensland](https://www.uq.edu.au/), and [Adelaide University](https://www.adelaide.edu.au/) along with the Grains Research and Development Corporation.
 The strategic partners work with project and associate partner organisations that include leading Australian and international universities, federal and state government research agencies, and commercial technology and analytics providers, to expand the sector’s analytics capability and tackle the Australian grains industry’s biggest challenges.
 
-![](./AAGI_SP_Logo_Block-Portrait.svg)
+![](./AAGI_SP_Logo_Block-Portrait 04052026.svg)
 
 
 <!--
